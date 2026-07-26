@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍔 Food Delivery Time Estimation (ETA Prediction)
 
 A end-to-end Machine Learning regression project that predicts food delivery time (in minutes) based on real-world factors like distance, traffic, weather, and delivery agent details.
@@ -165,3 +166,7 @@ Aspiring Data Scientist | Python · SQL · Scikit-learn · Power BI
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+=======
+# Delivery_time
+This repo for Delivery time calculation.
+>>>>>>> 2b792d703a20123d7cd99506f33a5c3b3b2e850c
