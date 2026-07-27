@@ -77,10 +77,10 @@ Four regression models were trained and compared:
 
 | Model | MAE | RMSE | R² Score |
 |---|---|---|---|
-| Linear Regression | — | — | — |
-| Decision Tree | — | — | — |
-| Random Forest | — | — | — |
-| Gradient Boosting | — | — | — |
+| Linear Regression | 5.31 | 6.60 | 0.5123 |
+| Decision Tree | 3.97 | 5.20 | 0.6979 |
+| Random Forest | 3.07 | 3.81 | 0.8375 |
+| Gradient Boosting | 3.40 | 4.25 | 0.7982 |
 
 > Results filled after final model run.
 
